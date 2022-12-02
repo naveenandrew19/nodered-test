@@ -8,6 +8,14 @@
         "env": []
     },
     {
+        "id": "dfe4017e2891757a",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "176913b1c9fe018d",
         "type": "inject",
         "z": "acda44124e9c9096",
